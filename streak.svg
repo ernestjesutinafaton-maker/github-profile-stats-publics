@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900" height="260" viewBox="0 0 900 260">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#12051f"/>
+<stop offset="50%" stop-color="#1d0b32"/>
+<stop offset="100%" stop-color="#090014"/>
+</linearGradient>
+
+<linearGradient id="accent">
+<stop offset="0%" stop-color="#a855f7"/>
+<stop offset="50%" stop-color="#d946ef"/>
+<stop offset="100%" stop-color="#22d3ee"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="900" height="260" rx="18" fill="url(#bg)"/>
+
+<rect x="1" y="1"
+width="898" height="258"
+rx="18"
+fill="none"
+stroke="url(#accent)"
+stroke-width="2"/>
+
+<text x="35" y="48"
+fill="#ffffff"
+font-family="Arial"
+font-size="25"
+font-weight="700">
+Contribution Streak
+</text>
+
+<rect x="35" y="70"
+width="830"
+height="2"
+fill="url(#accent)"
+filter="url(#glow)"/>
+
+
+<text x="180" y="125"
+fill="#a855f7"
+font-family="Arial"
+font-size="14"
+font-weight="700"
+text-anchor="middle">
+CURRENT STREAK
+</text>
+
+<text x="180" y="180"
+fill="#ffffff"
+font-family="Arial"
+font-size="55"
+font-weight="700"
+text-anchor="middle">
+2
+</text>
+
+<text x="180" y="210"
+fill="#64748b"
+font-family="monospace"
+font-size="12"
+text-anchor="middle">
+DAYS
+</text>
+
+
+<text x="620" y="125"
+fill="#22d3ee"
+font-family="Arial"
+font-size="14"
+font-weight="700"
+text-anchor="middle">
+LONGEST STREAK
+</text>
+
+<text x="620" y="180"
+fill="#ffffff"
+font-family="Arial"
+font-size="55"
+font-weight="700"
+text-anchor="middle">
+2
+</text>
+
+<text x="620" y="210"
+fill="#64748b"
+font-family="monospace"
+font-size="12"
+text-anchor="middle">
+DAYS
+</text>
+
+
+<line x1="450" y1="105"
+x2="450" y2="215"
+stroke="#ffffff"
+stroke-opacity="0.1"/>
+
+</svg>

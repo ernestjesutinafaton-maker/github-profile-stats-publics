@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="320"
+viewBox="0 0 900 320">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#12051f"/>
+<stop offset="50%" stop-color="#1d0b32"/>
+<stop offset="100%" stop-color="#090014"/>
+</linearGradient>
+
+<linearGradient id="accent">
+<stop offset="0%" stop-color="#a855f7"/>
+<stop offset="50%" stop-color="#d946ef"/>
+<stop offset="100%" stop-color="#22d3ee"/>
+</linearGradient>
+
+</defs>
+
+<rect width="900" height="320"
+rx="18"
+fill="url(#bg)"/>
+
+<rect x="1" y="1"
+width="898"
+height="318"
+rx="18"
+fill="none"
+stroke="url(#accent)"
+stroke-width="2"/>
+
+
+<text x="35" y="48"
+fill="#ffffff"
+font-family="Arial"
+font-size="25"
+font-weight="700">
+Most Used Languages
+</text>
+
+<rect x="35" y="70"
+width="830"
+height="2"
+fill="url(#accent)"/>
+
+
+    <text
+      x="45"
+      y="105"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      TypeScript
+    </text>
+
+    <rect
+      x="170"
+      y="92"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="92"
+      width="255.65"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="105"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      46.5%
+    </text>
+    
+    <text
+      x="45"
+      y="130"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      JavaScript
+    </text>
+
+    <rect
+      x="170"
+      y="117"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="117"
+      width="240.39"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="130"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      43.7%
+    </text>
+    
+    <text
+      x="45"
+      y="155"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      MDX
+    </text>
+
+    <rect
+      x="170"
+      y="142"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="142"
+      width="23.45"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="155"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      4.3%
+    </text>
+    
+    <text
+      x="45"
+      y="180"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      Elixir
+    </text>
+
+    <rect
+      x="170"
+      y="167"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="167"
+      width="21.56"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="180"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      3.9%
+    </text>
+    
+    <text
+      x="45"
+      y="205"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      CSS
+    </text>
+
+    <rect
+      x="170"
+      y="192"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="192"
+      width="6.35"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="205"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      1.2%
+    </text>
+    
+    <text
+      x="45"
+      y="230"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      SCSS
+    </text>
+
+    <rect
+      x="170"
+      y="217"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="217"
+      width="0.93"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="230"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      0.2%
+    </text>
+    
+    <text
+      x="45"
+      y="255"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      HTML
+    </text>
+
+    <rect
+      x="170"
+      y="242"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="242"
+      width="0.91"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="255"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      0.2%
+    </text>
+    
+    <text
+      x="45"
+      y="280"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="14">
+      Shell
+    </text>
+
+    <rect
+      x="170"
+      y="267"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#ffffff"
+      fill-opacity="0.06"/>
+
+    <rect
+      x="170"
+      y="267"
+      width="0.77"
+      height="12"
+      rx="6"
+      fill="url(#accent)"/>
+
+    <text
+      x="700"
+      y="280"
+      fill="#94a3b8"
+      font-family="monospace"
+      font-size="12">
+      0.1%
+    </text>
+    
+
+</svg>
