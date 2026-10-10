@@ -876,8 +876,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#a855f7"
+          fill-opacity="0.85"
         />
         
         <rect
@@ -886,8 +886,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#a855f7"
-          fill-opacity="0.85"
+          fill="#ffffff"
+          fill-opacity="0.05"
         />
         
         <rect
@@ -936,8 +936,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#22d3ee"
+          fill-opacity="0.85"
         />
         
         <rect
@@ -956,7 +956,7 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#22d3ee"
+          fill="#a855f7"
           fill-opacity="0.85"
         />
         
@@ -966,8 +966,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#c026d3"
+          fill-opacity="0.85"
         />
         
 
