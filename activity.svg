@@ -846,8 +846,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#a855f7"
+          fill-opacity="0.85"
         />
         
         <rect
@@ -876,8 +876,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#a855f7"
-          fill-opacity="0.85"
+          fill="#ffffff"
+          fill-opacity="0.05"
         />
         
         <rect
@@ -906,8 +906,8 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#22d3ee"
+          fill-opacity="0.85"
         />
         
         <rect
@@ -916,42 +916,12 @@ fill="url(#accent)"
           width="13"
           height="13"
           rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
+          fill="#22d3ee"
+          fill-opacity="0.85"
         />
         
         <rect
           x="176"
-          y="207"
-          width="13"
-          height="13"
-          rx="3"
-          fill="#ffffff"
-          fill-opacity="0.05"
-        />
-        
-        <rect
-          x="193"
-          y="207"
-          width="13"
-          height="13"
-          rx="3"
-          fill="#22d3ee"
-          fill-opacity="0.85"
-        />
-        
-        <rect
-          x="210"
-          y="207"
-          width="13"
-          height="13"
-          rx="3"
-          fill="#22d3ee"
-          fill-opacity="0.85"
-        />
-        
-        <rect
-          x="227"
           y="207"
           width="13"
           height="13"
@@ -961,13 +931,43 @@ fill="url(#accent)"
         />
         
         <rect
-          x="244"
+          x="193"
           y="207"
           width="13"
           height="13"
           rx="3"
           fill="#d946ef"
           fill-opacity="0.85"
+        />
+        
+        <rect
+          x="210"
+          y="207"
+          width="13"
+          height="13"
+          rx="3"
+          fill="#c026d3"
+          fill-opacity="0.85"
+        />
+        
+        <rect
+          x="227"
+          y="207"
+          width="13"
+          height="13"
+          rx="3"
+          fill="#ffffff"
+          fill-opacity="0.05"
+        />
+        
+        <rect
+          x="244"
+          y="207"
+          width="13"
+          height="13"
+          rx="3"
+          fill="#ffffff"
+          fill-opacity="0.05"
         />
         
 

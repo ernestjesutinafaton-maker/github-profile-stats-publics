@@ -2,22 +2,22 @@
 <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#12051f"/><stop offset="50%" stop-color="#1d0b32"/><stop offset="100%" stop-color="#090014"/></linearGradient><linearGradient id="accent"><stop offset="0%" stop-color="#a855f7"/><stop offset="50%" stop-color="#d946ef"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
 <rect width="900" height="150" rx="18" fill="url(#bg)"/>
 <rect x="1" y="1" width="898" height="148" rx="18" fill="none" stroke="url(#accent)" stroke-width="2"/>
-<text x="100.0" y="72" text-anchor="middle" fill="#8B5CF6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">7</text>
+<text x="100.0" y="72" text-anchor="middle" fill="#8B5CF6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">9</text>
 <text x="100.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">REPOSITORIES</text>
 <line x1="170.0" y1="34" x2="170.0" y2="96" stroke="#ffffff" stroke-opacity="0.08"/>
-<text x="240.0" y="72" text-anchor="middle" fill="#8B5CF6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">13</text>
+<text x="240.0" y="72" text-anchor="middle" fill="#8B5CF6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">14</text>
 <text x="240.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">FOLLOWERS</text>
 <line x1="310.0" y1="34" x2="310.0" y2="96" stroke="#ffffff" stroke-opacity="0.08"/>
 <text x="380.0" y="72" text-anchor="middle" fill="#D946EF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">0</text>
 <text x="380.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">STARS</text>
 <line x1="450.0" y1="34" x2="450.0" y2="96" stroke="#ffffff" stroke-opacity="0.08"/>
-<text x="520.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">70</text>
+<text x="520.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">74</text>
 <text x="520.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">CONTRIBUTIONS</text>
 <line x1="590.0" y1="34" x2="590.0" y2="96" stroke="#ffffff" stroke-opacity="0.08"/>
-<text x="660.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">4</text>
+<text x="660.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">0</text>
 <text x="660.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">CURRENT STREAK</text>
 <line x1="730.0" y1="34" x2="730.0" y2="96" stroke="#ffffff" stroke-opacity="0.08"/>
-<text x="800.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">4</text>
+<text x="800.0" y="72" text-anchor="middle" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">5</text>
 <text x="800.0" y="94" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">LONGEST STREAK</text>
-<text x="450.0" y="130" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">22 commits   |   13 issues   |   1 pull requests</text>
+<text x="450.0" y="130" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">24 commits   |   13 issues   |   1 pull requests</text>
 </svg>
